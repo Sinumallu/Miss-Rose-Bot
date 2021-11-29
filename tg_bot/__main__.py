@@ -18,9 +18,9 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hey there! My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential.
+Hey there! My name is *{}*, I'm here to help you manage your groups! Hit /help to find out more about how to use me to my full potential and this bot is made *ZINAN_tech2.O* @youtube.
 
-Join my [news channel](https://t.me/ProIndians) to get information on all the latest updates.
+Join my [movie chanel](https://t.me/movieworlddd ) to get information on all the latest updates.
 """
 
 HELP_STRINGS = """
